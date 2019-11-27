@@ -15,7 +15,7 @@ def getSundays():
     for i in range(1901, 2001):
         years.append(i)
 
-    # List daysPassed cotains all the days of the week from 1901 to 2000 in order
+    # List daysPassed contains all the days of the week from 1901 to 2000 in order
     daysPassed = []
     # List firstOfMonth contains all the days of the week that fell on the first of a month from 1901 to 2000
     firstOfMonth = []
